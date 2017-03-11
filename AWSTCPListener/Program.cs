@@ -20,9 +20,9 @@ class MyTcpListener
         {
             filepath = "data.txt";
         }
-        else               //Linux
+        else               //Unix
         {
-            filepath = "/home/administrator/awslistener/data.txt";
+            filepath = "/home/user-here/folder-path-here/data.txt";  //EDIT THIS LINE
         }
         
     REPEAT:
